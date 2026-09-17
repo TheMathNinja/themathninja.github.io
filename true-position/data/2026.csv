@@ -1,36 +1,36 @@
-﻿PLAYER,CUSTOM POSITION,DEFAULT MFL POSITION,LEAGUE,MFL ID
-"Abdullah, Yasir ATL",DE,LB,ADL + FAFL,16305
-"Batty, Tyler MIN",DE,LB,ADL + FAFL,17400
-"Booker, Thomas LVR",DT,DE,ADL + FAFL,15892
-"Bowman, Billy ATL",CB,S,ADL + FAFL,17179
-"Bredeson, Max MIN",RB,TE,ADL + FAFL,17641
-"Bridges, Trikweze CIN",CB,S,ADL + FAFL,17263
-"Chambliss, Chaz MIN",DE,LB,ADL + FAFL,17355
-"Chatman, Elijah CLE",DT,DE,ADL + FAFL,16875
-"Gill, Cam CAR",DE,LB,ADL + FAFL,15141
-"Goode, Cameron FA",DE,LB,ADL + FAFL,15935
-"Hampton, Dominique FA",LB,S,ADL + FAFL,16744
-"Hampton, Nick FA",DE,LB,ADL + FAFL,16318
-"Harrison, Ronnie MIA",LB,S,ADL + FAFL,13715
-"Heyward, Connor LVR",RB,TE,ADL + FAFL,15800
-"Holmes, Jalyn TEN",DT,DE,ADL + FAFL,13755
-"Incoom, Thomas CAR",DE,LB,ADL + FAFL,16485
-"Ivey, Jared ATL",DE,LB,ADL + FAFL,17287
-"Jenkins, Keonta BUF",LB,S,ADL + FAFL,17373
-"Johnson, Desjuan LAR",DE,DT,ADL + FAFL,16376
-"Jones, Velus SEA",RB,WR,ADL + FAFL,15767
-"Lacy, Tyler DET",DE,DT,ADL + FAFL,16302
-"Leota, Eku ARI",DE,LB,ADL + FAFL,16529
-"Murphy, Caleb LAC",DE,LB,ADL + FAFL,16440
-"Nowakowski, Riley PIT",RB,TE,ADL + FAFL,17648
-"Nowaske, Trevor DET",DE,LB,ADL + FAFL,16532
-"O'Toole, Connor SEA",DE,LB,ADL + FAFL,17412
-"Ponder, Elijah NEP",DE,LB,ADL + FAFL,17361
-"Ravenell, C.J. FA",DT,DE,ADL + FAFL,17374
-"Reiger, Mason PHI",DE,LB,ADL + FAFL,17725
-"Thomas, Tavierre MIN",S,CB,ADL + FAFL,13953
-"VanSumeren, Ben KCC",RB,LB,ADL + FAFL,16527
-"Ward, Jihad MIN",DE,DT,ADL + FAFL,12744
-"West, Tyre DET",DE,DT,ADL + FAFL,17678
-"Westover, Jack WAS",RB,TE,ADL + FAFL,16839
-"Williams, Elijah MIN",DT,DE,ADL + FAFL,17386
+﻿PLAYER,CUSTOM POSITION,DEFAULT MFL POSITION
+"Abdullah, Yasir ATL",DE,LB
+"Batty, Tyler MIN",DE,LB
+"Booker, Thomas LVR",DT,DE
+"Bowman, Billy ATL",CB,S
+"Bredeson, Max MIN",RB,TE
+"Bridges, Trikweze CIN",CB,S
+"Chambliss, Chaz MIN",DE,LB
+"Chatman, Elijah CLE",DT,DE
+"Gill, Cam CAR",DE,LB
+"Goode, Cameron FA",DE,LB
+"Hampton, Dominique FA",LB,S
+"Hampton, Nick FA",DE,LB
+"Harrison, Ronnie MIA",LB,S
+"Heyward, Connor LVR",RB,TE
+"Holmes, Jalyn TEN",DT,DE
+"Incoom, Thomas CAR",DE,LB
+"Ivey, Jared ATL",DE,LB
+"Jenkins, Keonta BUF",LB,S
+"Johnson, Desjuan LAR",DE,DT
+"Jones, Velus SEA",RB,WR
+"Lacy, Tyler DET",DE,DT
+"Leota, Eku ARI",DE,LB
+"Murphy, Caleb LAC",DE,LB
+"Nowakowski, Riley PIT",RB,TE
+"Nowaske, Trevor DET",DE,LB
+"O'Toole, Connor SEA",DE,LB
+"Ponder, Elijah NEP",DE,LB
+"Ravenell, C.J. FA",DT,DE
+"Reiger, Mason PHI",DE,LB
+"Thomas, Tavierre MIN",S,CB
+"VanSumeren, Ben KCC",RB,LB
+"Ward, Jihad MIN",DE,DT
+"West, Tyre DET",DE,DT
+"Westover, Jack WAS",RB,TE
+"Williams, Elijah MIN",DT,DE
