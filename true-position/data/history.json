@@ -1,0 +1,2387 @@
+[
+  {
+    "year": "2025",
+    "notes": "1. This sheet converts MFL IDP default positions to the majority opinion of MFL, PFF, & ESPN Fantasy\n2. DM @AnalyticsFF via Twitter for edit and update suggestions\n**UPDATED 8/16/25**\nSource Code: https://github.com/TheMathNinja/My-Projects/blob/master/Football-Analytics-Labs/PositionChange.R",
+    "rows": [
+      {
+        "player": "Adams, Jamal LVR",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Autry, Denico HOU",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Booker, Thomas PHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Brown, Earnest SFO",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Chatman, Elijah NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cominsky, John DET",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Conner, Chamarri KCC",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Gainer, Amari LVR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gaye, Ali TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gotsis, Adam TBB",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Hampton, Nick LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Harrison, Zach ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Incoom, Thomas DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ingram-Dawkins, Tyrion MIN",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Izien, Christian TBB",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Jones, Sai'vion DEN",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Jones Velus NOS",
+        "custom": "RB",
+        "default": "WR"
+      },
+      {
+        "player": "Jordan, Cameron NOS",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Leal, DeMarvin PIT",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Leota, Eku CAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "McLendon, TK TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Melton Bo GBP",
+        "custom": "CB",
+        "default": "WR"
+      },
+      {
+        "player": "Mills, Jalen NYG",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Moon, Jeremiah PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Murphy, Caleb TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Nowaske, Trevor DET",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ouzts RobbieSEA",
+        "custom": "RB",
+        "default": "TE"
+      },
+      {
+        "player": "Richter, Bo MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Roberts, Elijah TBB",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Shorter Justin LVR",
+        "custom": "TE",
+        "default": "WR"
+      },
+      {
+        "player": "Smith, Tykee TBB",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Tillman, Dondrea DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Turner, Shemar CHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "VanSumeren, Ben PHI",
+        "custom": "RB",
+        "default": "LB"
+      },
+      {
+        "player": "Wise, Deatrich NEP",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Wohler, Hunter IND",
+        "custom": "S",
+        "default": "LB"
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "notes": "1. This sheet converts MFL IDP default positions to the majority opinion of MFL, PFF, & ESPN Fantasy\n2. DM @AnalyticsFF via Twitter for edit and update suggestions\n**UPDATED 8/30/24**\nSource Code: https://github.com/TheMathNinja/My-Projects/blob/master/Football-Analytics-Labs/PositionChange.R",
+    "rows": [
+      {
+        "player": "Abdullah, Yasir JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Anderson, Abdullah WAS",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Anderson, Ryder NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Arnold, Grayland HOU",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Bernard-Converse, Jarrick NYJ",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Branch, Brian DET",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Brown, Earnest SFO",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cabinda, Jason FA",
+        "custom": "RB",
+        "default": "LB"
+      },
+      {
+        "player": "Chatman, Elijah NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Collins, Landon NYG",
+        "custom": "S",
+        "default": "LB"
+      },
+      {
+        "player": "Cominsky, John DET",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Davis, Jamin WAS",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Farmer, Andrew LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gaziano, Joe ATL",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Hampton, Nick LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hill, Taysom NOS",
+        "custom": "TE",
+        "default": "QB"
+      },
+      {
+        "player": "Incoom, Thomas DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Johnson, Kyron PHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Lake, Quentin LAR",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Ledbetter, Jonathan ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Leota, Eku CAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Maddox, Avonte PHI",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "McLendon, TK TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Mills, Jalen NYG",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Moon, Jeremiah PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Murphy, Caleb TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Odenigbo, Ifeadi FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ogbah, Emmanuel MIA",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Smith, Tykee TBB",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Van Noy, Kyle BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "VanValkenburg, Zach LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ward, Jihad NYG",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "White, Keion NEP",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Whitley, Benton NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Wise, Deatrich NEP",
+        "custom": "DE",
+        "default": "DT"
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "notes": "1. This sheet converts MFL IDP default positions to the majority opinion of MFL, PFF, & ESPN Fantasy\n2. DM @AnalyticsFF via Twitter for edit and update suggestions\n**UPDATED 8/16/23**",
+    "rows": [
+      {
+        "player": "Abdullah, Yasir JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Adeniyi, Ola FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Amadi, Ugo NOS",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Anderson, Abdullah WAS",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Booker, Thomas HOU",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Campbell, Elijah MIA",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Collins, Landon FA",
+        "custom": "S",
+        "default": "LB"
+      },
+      {
+        "player": "Copeland, Brandon FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Davidson, Marlon FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Fotu, Leki ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Golston, Chauncey DAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gunter, Jeffrey CIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hampton, Nick LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hand, Da'Shawn MIA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Holmes, Jalyn FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hyder, Kerry SFO",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Johnson, Kyron PHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Kennard, Devon FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ledbetter, Jonathan ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Lewis, Cam BUF",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Mitchell, DaMarcus NEP",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Odenigbo, Ifeadi NYJ",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ogbah, Emmanuel MIA",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Quarterman, Shaquille JAC",
+        "custom": "LB",
+        "default": "DE"
+      },
+      {
+        "player": "Robinson, Janarius PHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Scarlett, Brennan FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smoot, Dawuane JAC",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Toohill, Casey WAS",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Walker, DeMarcus CHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Ward, Jihad NYG",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Washington, Ar'Darius BAL",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "White, Keion NEP",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Williams, P.J. FA",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Wise, Deatrich NEP",
+        "custom": "DE",
+        "default": "DT"
+      },
+      {
+        "player": "Worley, Daryl BAL",
+        "custom": "S",
+        "default": "CB"
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "notes": "1. This sheet converts MFL IDP default positions to ESPN Fantasy True Position designations\n2. When ESPN lists a player at two positions (i.e. Edge and LB), PFF position breaks the tie\n3. DM @AnalyticsFF via Twitter for edit and update suggestions\n**UPDATED 8/19/22**",
+    "rows": [
+      {
+        "player": "Adams, Myles SEA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Adeniyi, Ola TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Allen, Josh JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Allen, Marcus PIT",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Anderson, Henry NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Anthony, Andre TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Avery, Genard PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Barrett, Shaq TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Beasley, Vic FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Bell, Quinton ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Biegel, Vince MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Blair, Marquise SEA",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Bledsoe, Amani FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Bonitto, Nik DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Booker, Thomas HOU",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Bosa, Joey LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Bowser, Tyus BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Brooks, Antoine LAR",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Brown, Andrew LAC",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Brown, Bobby LAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Brown, Cam NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Browning, Baron DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Bullard, Jonathan ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Butler, Adam FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Butler, Vernon FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Campbell, Elijah MIA",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Carpenter, Tariq GBP",
+        "custom": "S",
+        "default": "LB"
+      },
+      {
+        "player": "Carter, Lorenzo NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Carter, Ron'Dell PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Carter, Zachary CIN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Chachere, Andre PHI",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Chaisson, K'Lavon JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Christian, Marqui FA",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Chubb, Bradley DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Collier, L.J. SEA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cominsky, John ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cooper, Jonathon DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Copeland, Brandon ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Copeland, Marquise LAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cornell, Jashon DET",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Crawford, Jack ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Davidson, Marlon ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Dimukeje, Victor ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Dupree, Bud TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ebiketie, Arnold ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Egbule, Emeke LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ejiofor, Duke FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Enagbare, Kingsley GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Fackrell, Kyler LVR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ferguson, Jaylon BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Fitts, Kylie ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Floyd, Leonard LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Fox, Morgan FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Galeai, Tipa GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gardeck, Dennis ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gardner-Johnson, Chauncey NOS",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Garrett, Chris LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Garvin, Jonathan GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gary, Rashan GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gaziano, Joe LAC",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gholston, William TBB",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gill, Cam TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Golden, Markus NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Goode, Cameron MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Graham, Ta'Quon ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Green, Rasheem SEA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gregory, Randy DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Griffin, Shaquem FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gunter, Jeffrey CIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gustin, Porter CLE",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Guy, Lawrence NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hall, Logan TBB",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hamilton, La'Darius GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hand, Da'Shawn TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Harris, Jonathan DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Harris, Marcell SFO",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Harris, Shelby DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Harris, Trent BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Harris, Will DET",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Hartsfield, Myles CAR",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Hayes, Daelin BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Henningsen, Matt DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hicks, Akiem CHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Highsmith, Alex PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hollins, Justin LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Houston, James DET",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Houston, Justin BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hunter, Danielle MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hyder, Kerry SFO",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Ingram, Melvin KCC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Jackson, Jordan NOS",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Johnson, Darryl CAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Johnson, Patrick PHI",
+        "custom": "LB",
+        "default": "DE"
+      },
+      {
+        "player": "Johnson, Raymond NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Jones, Dre'Mont DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Jones, Jamir JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Jones, Patrick MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Judon, Matt BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Kamara, Azur CAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Kennard, Devon ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Key, Arden JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Landry, Harold TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Lawler, Justin TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ledbetter, Jeremiah JAC",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Lemonier, Jessie FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Lewis, Terrell LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Loudermilk, Isaiahh PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Lowry, Dean GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Luketa, Jesse ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Lynch, James MIN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Mack, Khalil LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Madubuike, Justin BAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Malone, DeAngelo ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Marsh, Cassius CHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Martin, Jake NYJ",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "McCourty, Jason FA",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "McPhee, Pernell BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Means, Steven BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Melifonwu, Ifeatu DET",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Mukuamu, Israel DAL",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Murchison, Larrell TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Nelson, Anthony TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Nunez-Roches, Rakeem TBB",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Nwosu, Uchenna LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "O'Connor, Pat GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Obada, Efe WAS",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Odenigbo, Ifeadi CLE",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ogunjobi, Larry PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Ojabo, David BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ojulari, Azeez NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Otomewo, Esezi MIN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Oweh, Jayson BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Paschal, Josh DET",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Perkins, Ronnie NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Phillips, Harrison MIN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Phillips, Jaelan MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Pinnock, Jason NYJ",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Ramsey, Randy GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Randall, Damarious FA",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Ray, Wyatt CIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Reddick, Haason PHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Reed, Jarran GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Reed, Malik DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Roberson, Derick TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Roberts, Sam NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Robertson-Harris, Roy JAC",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Robinson, A'Shawn LAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Robinson, Janarius MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Roche, Quincy NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Rumph, Chris LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Sanders, Myjai ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Scarlett, Brennan MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Sieler, Zach MIA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Smith, Chris HOU",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Elerson NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Jordan JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Preston GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Za'Darius GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Spencer, Marquiss DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Stephen, Shamar DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Stephens, Brandon BAL",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Stevens, JaCoby PHI",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Strong, Kevin TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Tabor, Teez ATL",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Thibodeaux, Kayvon NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Thomas II, Rodney IND",
+        "custom": "CB",
+        "default": "LB"
+      },
+      {
+        "player": "Thurman, Nick ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Tillery, Jerry LAC",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Toohill, Casey WAS",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Tryon, Joe TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Tuitt, Stephon PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Uche, Josh NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Urban, Brent BAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Uwazurike, Eyioma DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Van Ginkel, Andrew MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Vaughters, James ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Walker, DeMarcus HOU",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Watt, J.J. ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Watt, T.J. PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Wilkins, Christian MIA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Willekes, Kenny MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Williams, DeShawn DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Williams, Leonard NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Williams, P.J. NOS",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Wolfe, Derek BAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Wonnum, D.J. MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Worley, Daryl BAL",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Wormley, Chris PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Wyatt, Devonte GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Ximines, Oshane NYG",
+        "custom": "DE",
+        "default": "LB"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "notes": "1. This sheet converts MFL IDP default positions to ESPN Fantasy True Position designations\n2. When ESPN lists a player at two positions (i.e. Edge and LB), PFF position breaks the tie\n3. DM @AnalyticsFF via Twitter for edit and update suggestions",
+    "rows": [
+      {
+        "player": "Adams, Montravius NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Adeniyi, Ola TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Allen, Marcus PIT",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Allen, Zach ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Anderson, Henry NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Anderson, Ryan NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Apke, Troy WAS",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Attaochu, Jeremiah CHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Autry, Denico TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Bailey, Allen FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Barrett, Shaq TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Beasley, Vic LVR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Bell, Quinton TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Biegel, Vince MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Blackson, Angelo CHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Blair, Marquise SEA",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Bower, Tashawn NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Bowser, Tyus BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Brailford, Jordan MIN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Brooks, Antoine PIT",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Brown, Cam NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Brown, Earnest LAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Bryant, Myles NEP",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Bullard, Jonathan SEA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Bynum, Camryn MIN",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Campbell, Calais BAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Carter, Lorenzo NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Carter, Michael NYJ",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Casey, Jurrell FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Chickillo, Anthony DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Chubb, Bradley DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Coley, Trevon TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Collier, L.J. SEA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cominsky, John ATL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Cooper, Jonathon DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Copeland, Brandon ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Cornell, Jashon DET",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Correa, Kamalei FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Coughlin, Carter NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Crawford, Jack TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Davis, Carlos PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Deablo, Divine LVR",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Dickerson, Matt LVR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Dimukeje, Victor ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Dogbe, Michael ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Dupree, Bud TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ebukam, Samson SFO",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Edwards, Mario CHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Egbule, Emeke LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Eguavoen, Sam MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ejiofor, Duke HOU",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Fackrell, Kyler LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ferguson, Jaylon BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Finch, Sharif NYJ",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Fitts, Kylie ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Floyd, Leonard LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Fox, Morgan CAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gaines, Greg LAR",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gardeck, Dennis ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gardner-Johnson, Chauncey NOS",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Garrett, Chris LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Garvin, Jonathan GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gary, Rashan GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gholston, William TBB",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Gill, Cam TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Golden, Markus ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Goodwin, C.J. DAL",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Green, Rasheem SEA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Griffin, Shaquem SEA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Gustin, Porter CLE",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Guy, Lawrence NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Harris, Jonathan DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Harris, Shelby DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hartsfield, Myles CAR",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Hayes, Daelin BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Heyward, Cameron PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hicks, Akiem CHI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Highsmith, Alex PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hill, B.J. NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Hollins, Justin LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Houston, Justin BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Hunt, Margus ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Ingram, Melvin PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Irving, Isaiah ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Jones, Chandler ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Jones, Datone FA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Jones, Dre'Mont DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Judon, Matt NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Kalu, Joshua NYG",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Keke, Kingsley GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Kennard, Devon ARI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Killebrew, Miles PIT",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Lancaster, Tyler GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Landry, Harold TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Lawler, Justin LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ledbetter, Jeremiah TBB",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Lewis, Terrell LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Loudermilk, Isaiahh PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Lowry, Dean GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Luvu, Frankie CAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Lynch, Aaron JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Mack, Isaiah DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Mack, Khalil CHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Malveaux, Cameron CLE",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Marsh, Cassius PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Martin, Jake HOU",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Martin, Kareem DET",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Matthews, Clay FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "McIntosh, RJ NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "McManis, Sherrick CHI",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "McPhee, Pernell BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Miller, Christian CAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Miller, Von DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Milligan, Rolan IND",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Mingo, Barkevious ATL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Mondeaux, Henry PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Moore, Tarvarius SFO",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Murchison, Larrell TEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Murray, Eric HOU",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Nelson, Anthony TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Nwosu, Uchenna LAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "O'Connor, Pat TBB",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Obada, Efe BUF",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Odenigbo, Ifeadi NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ojulari, Azeez NYG",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Okoronkwo, Ogbonnia LAR",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Omenihu, Charles HOU",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Oweh, Jayson BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Perkins, Ronnie NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Phillips, Jordan ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Polite, Jachai FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Quinn, Robert CHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Ramsey, Randy GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Randall, Damarious SEA",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Ray, Wyatt TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Reed, Brooks FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Reed, Malik DEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Roberson, Derick TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Roche, Quincy PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Scarlett, Brennan MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Sieler, Zach MIA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Skipper, Tuzar TEN",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Chris BAL",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Jordan JAC",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Preston GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith, Za'Darius GBP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Smith-Williams, James WAS",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Snowden, Charles CHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Spencer, Marquiss DEN",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Stevens, JaCoby PHI",
+        "custom": "LB",
+        "default": "S"
+      },
+      {
+        "player": "Street, Kentavius SFO",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Strowbridge, Jason MIA",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Suggs, Terrell FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Tell, Marvell IND",
+        "custom": "CB",
+        "default": "S"
+      },
+      {
+        "player": "Thurman, Nick NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Toohill, Casey WAS",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Tryon, Joe TBB",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Tufele, Jay JAC",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Tuitt, Stephon PIT",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Uche, Josh NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Urban, Brent DAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Van Ginkel, Andrew MIA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Van Noy, Kyle NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Vaughters, James CHI",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Walker, D'Andre FA",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Walker, DeMarcus HOU",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Watt, J.J. ARI",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Watt, T.J. PIT",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Williams, Leonard NYG",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Williams, P.J. NOS",
+        "custom": "S",
+        "default": "CB"
+      },
+      {
+        "player": "Winn, Billy GBP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Winovich, Chase NEP",
+        "custom": "DE",
+        "default": "LB"
+      },
+      {
+        "player": "Wise, Deatrich NEP",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Wolfe, Derek BAL",
+        "custom": "DT",
+        "default": "DE"
+      },
+      {
+        "player": "Wormley, Chris PIT",
+        "custom": "DT",
+        "default": "DE"
+      }
+    ]
+  }
+]

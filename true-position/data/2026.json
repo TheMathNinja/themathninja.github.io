@@ -1,0 +1,366 @@
+{
+  "year": "2026",
+  "asOf": "2026-09-17",
+  "counts": {
+    "ADL": 35,
+    "FAFL": 35
+  },
+  "notes": "Positions currently configured in the 2026 ADL and FAFL leagues, compared with MFL\u2019s default player positions. This is a snapshot of the positions in use, not a list of proposed changes.",
+  "rows": [
+    {
+      "id": "16305",
+      "player": "Abdullah, Yasir ATL",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17400",
+      "player": "Batty, Tyler MIN",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "15892",
+      "player": "Booker, Thomas LVR",
+      "custom": "DT",
+      "default": "DE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17179",
+      "player": "Bowman, Billy ATL",
+      "custom": "CB",
+      "default": "S",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17641",
+      "player": "Bredeson, Max MIN",
+      "custom": "RB",
+      "default": "TE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17263",
+      "player": "Bridges, Trikweze CIN",
+      "custom": "CB",
+      "default": "S",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17355",
+      "player": "Chambliss, Chaz MIN",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16875",
+      "player": "Chatman, Elijah CLE",
+      "custom": "DT",
+      "default": "DE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "15141",
+      "player": "Gill, Cam CAR",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "15935",
+      "player": "Goode, Cameron FA",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16744",
+      "player": "Hampton, Dominique FA",
+      "custom": "LB",
+      "default": "S",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16318",
+      "player": "Hampton, Nick FA",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "13715",
+      "player": "Harrison, Ronnie MIA",
+      "custom": "LB",
+      "default": "S",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "15800",
+      "player": "Heyward, Connor LVR",
+      "custom": "RB",
+      "default": "TE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "13755",
+      "player": "Holmes, Jalyn TEN",
+      "custom": "DT",
+      "default": "DE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16485",
+      "player": "Incoom, Thomas CAR",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17287",
+      "player": "Ivey, Jared ATL",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17373",
+      "player": "Jenkins, Keonta BUF",
+      "custom": "LB",
+      "default": "S",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16376",
+      "player": "Johnson, Desjuan LAR",
+      "custom": "DE",
+      "default": "DT",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "15767",
+      "player": "Jones, Velus SEA",
+      "custom": "RB",
+      "default": "WR",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16302",
+      "player": "Lacy, Tyler DET",
+      "custom": "DE",
+      "default": "DT",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16529",
+      "player": "Leota, Eku ARI",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16440",
+      "player": "Murphy, Caleb LAC",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17648",
+      "player": "Nowakowski, Riley PIT",
+      "custom": "RB",
+      "default": "TE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16532",
+      "player": "Nowaske, Trevor DET",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17412",
+      "player": "O'Toole, Connor SEA",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17361",
+      "player": "Ponder, Elijah NEP",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17374",
+      "player": "Ravenell, C.J. FA",
+      "custom": "DT",
+      "default": "DE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17725",
+      "player": "Reiger, Mason PHI",
+      "custom": "DE",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "13953",
+      "player": "Thomas, Tavierre MIN",
+      "custom": "S",
+      "default": "CB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16527",
+      "player": "VanSumeren, Ben KCC",
+      "custom": "RB",
+      "default": "LB",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "12744",
+      "player": "Ward, Jihad MIN",
+      "custom": "DE",
+      "default": "DT",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17678",
+      "player": "West, Tyre DET",
+      "custom": "DE",
+      "default": "DT",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "16839",
+      "player": "Westover, Jack WAS",
+      "custom": "RB",
+      "default": "TE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    },
+    {
+      "id": "17386",
+      "player": "Williams, Elijah MIN",
+      "custom": "DT",
+      "default": "DE",
+      "leagues": [
+        "ADL",
+        "FAFL"
+      ]
+    }
+  ],
+  "sources": {
+    "ADL": "https://www46.myfantasyleague.com/2026/export?TYPE=players&L=60206&JSON=1",
+    "FAFL": "https://www43.myfantasyleague.com/2026/export?TYPE=players&L=22686&JSON=1",
+    "MFL defaults": "https://api.myfantasyleague.com/2026/export?TYPE=players&JSON=1"
+  }
+}
